@@ -40,7 +40,7 @@ Cooker来自于参加的一个赛百特杯物联网大赛，设计了一个远�
  - lamp系统使用教程：https://oss.aliyuncs.com/netmarket/e1f47515-c24c-4b4c-aab8-b644d6baee41.pdf?spm=5176.2020520132.101.7.aTmgiI&file=e1f47515-c24c-4b4c-aab8-b644d6baee41.pdf
  - WinScp：该软件能够用可视化的方式向后台系统传递文件
  - 阿里云后台网址：http://47.93.17.28/
- - 数据库网址：http://47.93.17.28/phpmyadmin/。
+ - 数据库网址：http://47.93.17.28/phpmyadmin/
  - 账号密码：我就不说了
  - 后台本质上就相当于一个文件夹，每次访问后台就是去后台中寻找PHP文件，进行执行，也就是说PHP操作将完成数据库的所有操作。
 
